@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Hover Link Preview - Zen Browser
-// @namespace    http://tampermonkey.net/
+// @namespace    https://adish08.github.io
 // @version      2.4
-// @description  Cursor-centered preview with improved visuals
+// @description  Automatically triggers Alt+Click preview after hovering on links for 5 seconds **NOTE: ONLY WORKS WITH ZEN BROWSER
 // @author       Adish Sagarawat
 // @license      MIT
 // @icon         https://miro.medium.com/v2/0*oa0XcvM99Y5clDsj.png
